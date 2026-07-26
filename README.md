@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Live Application:** [httppantrychef-ai-cyan.vercel.app](https://vercel.com/laraib9/pantrychef-ai)
+🔗 **Live Application:** pantrychef-ai-cyan.vercel.app
 
 🔗 **GitHub Repository:** [https://github.com/Laraib-Hash/pantrychef-ai](https://github.com/Laraib-Hash/pantrychef-ai)
 
